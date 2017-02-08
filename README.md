@@ -2,6 +2,7 @@ BBScrollPageView
 ###效果图：
 ![image](https://github.com/BohrForIOS/BBScrollPageView/blob/master/BBScrollPageViewDemo/BBPageScrollView.gif )
 ###使用
+传入标题数组和子控制器数组即可，非常简单
 --
 
 `_pageView = [[BBScrollPageView alloc] initWithFrame:pageViewRect 
